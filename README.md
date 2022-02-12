@@ -51,9 +51,9 @@ Users should be able to:
 
 ## Author
 
-- Website - [](https://github.com/chrischakrit)
+- Website - [https://github.com/chrischakrit]
 - Frontend Mentor - [@chrischakrit](https://www.frontendmentor.io/profile/chrischakrit)
 
 ## Acknowledgments
 
--Anyone from Frontend Mentor who are kindly giving feedback/comments.
+- Anyone from Frontend Mentor who are kindly giving feedback/comments.
